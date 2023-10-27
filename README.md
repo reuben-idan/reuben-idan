@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reuben-idan
-- 👀 I’m interested in  full-stack mobile and wepp app development
-- 🌱 I’m currently learning Software Engineering
+- 👀 I’m interested in  full-stack mobile and web app development
+- 🌱 I’m currently studying Software Engineering
 - 💞️ I’m excited to collaborate on creating interactive, multifunctional apps for the education and real estate industries.”
 - 📫 my facebook username is Germane.reudan  and  @AdroitIdan on twitter
 
