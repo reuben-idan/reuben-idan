@@ -1,31 +1,78 @@
-# Hi there! 👋 I'm Reuben Idan  
+# 👋 Hi there, I'm Reuben Idan
 
-I'm a front-end developer passionate about crafting intuitive, user-friendly experiences that merge design and functionality. My journey began with a love for aesthetics and evolved into a deep understanding of web development. Here's a glimpse into my world:  
+I'm a **front-end developer** turned **full-stack engineer in training**, passionate about building seamless digital experiences—from pixel-perfect UIs to robust backend systems. I craft solutions with empathy, creativity, and code.
 
-### 💻 Web Developer & UI/UX Enthusiast  
-I specialize in turning ideas into interactive, responsive, and visually appealing web experiences. With expertise in **HTML, CSS, JavaScript, Bootstrap, and React**, I build everything from sleek landing pages to dynamic web applications. Every project is an opportunity to push boundaries and enhance user engagement.  
+---
 
-### 🎨 Design & User Experience Advocate  
-UI/UX isn't just about looks—it's about how it feels. I focus on crafting **seamless interactions, fluid animations, and pixel-perfect designs** that enhance usability. My goal? To make the web more beautiful and intuitive, one interface at a time.  
+## 💻 Front-End Specialist | UI/UX Advocate
 
-### 🚀 Project Leadership & Collaboration  
-As a **team lead** on the Purpool chat app, I guided the team through Git workflows, code reviews, and project challenges. I'm comfortable with **Agile methodologies** and tools like **Jira and Trello**, ensuring smooth project execution.  
+I build responsive, accessible, and engaging web apps using:
 
-### 🔍 Data & Problem-Solving Mindset  
-Beyond front-end development, I love working with **Power BI and SQL** to uncover insights that drive decisions. Whether debugging a tricky JavaScript issue or analyzing data trends, problem-solving keeps me motivated.  
+- **HTML, CSS, JavaScript, Tailwind, React**
+- Focus on **clean code, design systems, and intuitive user flows**
+- Projects include landing pages, interactive dashboards, and dynamic web apps
 
-### 🌍 Freelance & Open to Opportunities  
-From solo projects to team collaborations, I'm always eager to build something meaningful. Whether it's a **freelance gig** or a **full-time opportunity**, I’m ready to contribute, learn, and grow.  
+> Design should be felt, not just seen.
 
-### 📚 Lifelong Learner  
-My curiosity drives me. I'm currently diving into **machine learning, code optimization, and NLP**, constantly refining my skills to stay ahead in tech.  
+---
 
-### 🌿 Beyond Code  
-When I’m not coding, I advocate for **wildlife conservation**—because just like great design shapes digital experiences, thoughtful solutions can shape our world.  
+## 🧠 Back-End Engineer in Progress – *ALX ProDev Program*
 
-Let’s connect and build something incredible together! 🚀🎨  
+I'm currently deepening my backend skills with ALX, mastering:
 
-**#FrontendDeveloper #UIUX #WebDevelopment #HTML #CSS #JavaScript #React #Freelance #FullTime #WebDesign #ResponsiveDesign #SEO #Agile #PowerBI #SQL**  
+- **JavaScript (Node.js)** and **Python**
+- **RESTful API development**, **JWT authentication**, **microservices**
+- **MongoDB**, **PostgreSQL**, **unit testing**, and **DevOps workflows**
+- Full-stack deployments using **Render**, **Railway**, **Netlify**, and **CI/CD pipelines**
 
+---
 
+## 🚀 Team Leadership & Agile Collaboration
+
+As **team lead** on the _Purpool chat app_, I:
+
+- Managed Git collaboration, code reviews, and issue tracking
+- Facilitated sprints with **Jira** and **Trello**
+- Helped the team navigate challenges with clarity and collaboration
+
+---
+
+## 🔍 Data Meets Code
+
+I bring a problem-solving mindset rooted in **data science**:
+
+- Use **SQL** and **Power BI** to extract insights and visualize data
+- Love debugging, optimizing, and fine-tuning logic across the stack
+
+---
+
+## 🌱 Always Evolving
+
+My current growth tracks include:
+
+- Backend AI: **Python, Flask/FastAPI, ML models**
+- Creative tech: **Generative art, interactive cityscapes**
+- Secure systems: **OWASP practices**, automated DevOps pipelines
+
+---
+
+## 🌍 Beyond the Code
+
+Outside of dev life, I’m a **wildlife conservation advocate**.  
+Design thinking isn’t just for digital—it’s how we shape a better world.
+
+---
+
+## 🤝 Let’s Connect
+
+**Freelance, full-time, or passion project?** Let’s build something meaningful together.
+
+[🔗 LinkedIn](https://www.linkedin.com/in/reuben-idan/) 
+
+---
+
+### 🔖 Tech Stack & Tags
+
+`#FullStackEngineer` `#FrontendDeveloper` `#React` `#NodeJS` `#Python` `#SQL`  
+`#UIUX` `#WebApps` `#CreativeTech` `#DevOps` `#PowerBI` `#OpenToWork`
 
