@@ -9,70 +9,78 @@ I'm a **front-end developer** turned **full-stack engineer in training**, passio
 I build responsive, accessible, and engaging web apps using:
 
 - **HTML, CSS, JavaScript, Tailwind, React**
+- Currently upskilling in **Next.js** and **React Native** through the **ALX ProDev Front-End** programme
 - Focus on **clean code, design systems, and intuitive user flows**
-- Projects include landing pages, interactive dashboards, and dynamic web apps
+- Hands-on experience creating cross-platform mobile apps and high-performance web interfaces
 
 > Design should be felt, not just seen.
 
 ---
 
-## 🧠 Back-End Engineer in Progress – *ALX ProDev Program*
+## 🚀 ALX ProDev Training – *Front-End & Back-End*
 
-I'm currently deepening my backend skills with ALX, mastering:
+### 🎨 Front-End Track
+The **ALX ProDev Front-End** programme is sharpening my skills with:
 
-- **JavaScript (Node.js)** and **Python**
-- **RESTful API development**, **JWT authentication**, **microservices**
-- **MongoDB**, **PostgreSQL**, **unit testing**, and **DevOps workflows**
-- Full-stack deployments using **Render**, **Railway**, **Netlify**, and **CI/CD pipelines**
+- Advanced tools like **Next.js**, **React Native**, and **Tailwind CSS**
+- Real-world projects, expert-led roundtables, and performance optimization
+- Building a portfolio that reflects production-ready design and development
 
----
+### 🧠 Back-End Track
+I'm also diving deep into:
 
-## 🚀 Team Leadership & Agile Collaboration
-
-As **team lead** on the _Purpool chat app_, I:
-
-- Managed Git collaboration, code reviews, and issue tracking
-- Facilitated sprints with **Jira** and **Trello**
-- Helped the team navigate challenges with clarity and collaboration
+- **Node.js**, **Express**, and **Python**
+- **RESTful APIs**, **JWT auth**, **MongoDB/PostgreSQL**, and **CI/CD**
+- DevOps workflows, error handling, testing, and full-stack integration
 
 ---
 
-## 🔍 Data Meets Code
+## 🧩 Data Meets Code
 
-I bring a problem-solving mindset rooted in **data science**:
+With a background in **data science**, I enjoy merging logic with visuals:
 
-- Use **SQL** and **Power BI** to extract insights and visualize data
-- Love debugging, optimizing, and fine-tuning logic across the stack
+- Use **SQL** and **Power BI** for insights and dashboards
+- Skilled at debugging and turning patterns into solutions
+
+---
+
+## 🧑‍🤝‍🧑 Leadership & Agile Collaboration
+
+As team lead on the **Purpool chat app**, I:
+
+- Facilitated team workflows with **Git, Jira, and Trello**
+- Managed code reviews, PRs, and agile delivery
+- Ensured team synergy and shipped quality features on time
 
 ---
 
 ## 🌱 Always Evolving
 
-My current growth tracks include:
+Current focus areas:
 
-- Backend AI: **Python, Flask/FastAPI, ML models**
-- Creative tech: **Generative art, interactive cityscapes**
-- Secure systems: **OWASP practices**, automated DevOps pipelines
+- **Cross-platform mobile apps** with React Native  
+- **Secure, testable backends** with Express, JWT, Jest  
+- **Creative Tech** — digital art meets interactivity  
+- **AI + Backend** — building smart, data-driven apps  
 
 ---
 
 ## 🌍 Beyond the Code
 
-Outside of dev life, I’m a **wildlife conservation advocate**.  
-Design thinking isn’t just for digital—it’s how we shape a better world.
+When I’m not coding, I advocate for **wildlife conservation**.  
+Just like digital design, thoughtful action shapes a better future.
 
 ---
 
 ## 🤝 Let’s Connect
 
-**Freelance, full-time, or passion project?** Let’s build something meaningful together.
+**Freelance, full-time, or collaboration?** Let’s create something meaningful.
 
-[🔗 LinkedIn](https://www.linkedin.com/in/reuben-idan/) 
+[🔗 LinkedIn](https://www.linkedin.com/in/reuben-idan/) • GitHub • Portfolio (coming soon)
 
 ---
 
 ### 🔖 Tech Stack & Tags
 
-`#FullStackEngineer` `#FrontendDeveloper` `#React` `#NodeJS` `#Python` `#SQL`  
-`#UIUX` `#WebApps` `#CreativeTech` `#DevOps` `#PowerBI` `#OpenToWork`
-
+`#FullStackEngineer` `#FrontendDeveloper` `#React` `#NextJS` `#ReactNative` `#NodeJS` `#Python`  
+`#UIUX` `#TailwindCSS` `#WebApps` `#DevOps` `#SQL` `#PowerBI` `#CreativeTech` `#OpenToWork`
