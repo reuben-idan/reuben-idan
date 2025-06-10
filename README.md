@@ -23,7 +23,7 @@
 <!-- INTRODUCTION -->
 <p align="center">
   Driven by empathy and creativity, I bridge the gap between intuitive design and robust engineering.<br>
-  I specialize in crafting seamless digital experiences—blending design systems, scalable architecture, and data-driven decisions.<br>
+  I specialize in crafting seamless digital experiences, blending design systems, scalable architecture, and data-driven decisions.<br>
   My goal: deliver business-ready products that delight users and stand the test of time.
 </p>
 
