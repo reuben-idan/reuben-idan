@@ -13,7 +13,7 @@
   <a href="https://bit.ly/reuben-idan">
     <img src="https://img.shields.io/badge/Portfolio-Visit-darkorange?style=flat-square" alt="Portfolio"/>
   </a>
-  <a href="mailto:idanreuben@gmail.com">
+  <a href="mailto:reuben.idan@yahoo.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail" alt="Email"/>
   </a>
 </p>
