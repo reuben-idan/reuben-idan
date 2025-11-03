@@ -1,20 +1,21 @@
 <!-- HEADER -->
 <h1 align="center">Reuben Idan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Engineer+Building+Modern+Digital+Experiences;Front-End+Specialist+|+Full-Stack+in+Progress;Design+Systems+%7C+Data+%7C+Delivery" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1300&color=36BCF7&center=true&vCenter=true&width=850&lines=Digital+Artist+%26+Software+Engineer;Building+Scalable+AI-Powered+Solutions;Design+%7C+Data+%7C+Impact" alt="Dynamic Typing Animation" />
 </p>
+
 <p align="center">
   <a href="https://github.com/reuben-idan">
-    <img src="https://komarev.com/ghpvc/?username=reuben-idan&style=flat-square&color=36bcf7" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=reuben-idan&style=flat-square&color=36bcf7" alt="Profile Views" />
   </a>
   <a href="https://www.linkedin.com/in/reuben-idan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://bit.ly/reuben-idan">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-darkorange?style=flat-square" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-darkorange?style=flat-square" alt="Portfolio" />
   </a>
-  <a href="mailto:reuben.idan@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail" alt="Email"/>
+  <a href="mailto:idanreuben@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail" alt="Email" />
   </a>
 </p>
 
@@ -22,78 +23,74 @@
 
 <!-- INTRODUCTION -->
 <p align="center">
-  Driven by empathy and creativity, I bridge the gap between intuitive design and robust engineering.<br>
-  I specialize in crafting seamless digital experiences, blending design systems, scalable architecture, and data-driven decisions.<br>
-  My goal: deliver business-ready products that delight users and stand the test of time.
+  I’m a <strong>Digital Artist and Software Engineer</strong> exploring the intersection of <strong>design, data, and technology</strong>.<br>
+  My work spans <strong>AI-powered platforms, full-stack development, and digital art</strong>, blending precision with creativity to build experiences that inspire and endure.<br>
+  Trained through <strong>ALX</strong> and <strong>Stanford’s Precision Program</strong>, I bring a multidisciplinary approach to problem-solving and innovation.
 </p>
 
 <!-- QUICK FACTS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Primary-Front--End%20Development-36bcf7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Engineering-1da1f2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Passion-UI%2FUX%20%2B%20Data%20Integration-0a0fff?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Remote%20%2F%20Global-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Software%20Engineer-36bcf7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Creative-Digital%20Artist-1da1f2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cohort-OST%202025--2026%20Tech%20Talent-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Agritech%20%7C%20Healthtech-0a0fff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Global%20%2F%20Remote-success?style=flat-square" />
 </p>
 
 ---
 
-## Professional Story
+## About Me
 
-I am a results-driven developer with a foundation in front-end technologies and a passion for seamless user experiences. Evolving into full-stack engineering, I architect solutions that merge best-in-class UI/UX with reliable, scalable back-ends. My experience spans production-grade web and mobile apps, data visualization, and agile team leadership.
+As a data-driven full-stack engineer and creative innovator, I design and build scalable digital solutions that create measurable impact across Africa.  
+Currently part of the **Open Startup (OST) 2025–2026 Cohort** as a **Tech Talent**, I collaborate with founders and mentors from **MIT** and **Columbia Business School** to co-build high-impact ventures in **innovation, sustainability, and technology**.  
 
-- **Front-End Specialist:** React, Next.js, React Native, Tailwind CSS, advanced JavaScript/TypeScript.
-- **Back-End Trainee:** Node.js, Express, Python, REST APIs, MongoDB, PostgreSQL, CI/CD.
-- **Data Integration:** SQL, Power BI, and data-driven dashboards for actionable insights.
-- **Design Systems:** Advocating for scalable, accessible, and consistent design languages.
-- **Collaboration:** Led agile teams, managed code reviews, and delivered on ambitious timelines.
+At **ALX**, I’m deepening expertise in **backend engineering (Python, Django, SQL)** and **frontend development (React, TypeScript)**, while exploring **AI and data science** through **Stanford’s Precision Bioinformatics Program**.  
+I’m also **cofounder of DataHaul Agritech**, a smart farming and market access platform that empowers small-scale farmers with data insights and digital tools for improved yield and income.  
 
----
-
-## Current Focus
-
-- **Building scalable, maintainable web and cross-platform mobile applications.**
-- **Deepening expertise in back-end engineering, DevOps, and cloud-native workflows.**
-- **Applying creative technology to blend digital art, interactivity, and data.**
-- **Driving projects from concept to launch, optimizing for both user and business outcomes.**
+I believe that **engineering and art share the same DNA** — structure, motion, and imagination. Whether I’m coding or creating the **RQuasar car design series**, I strive to make technology both **functional and inspiring**.
 
 ---
 
-## Selected Highlights
-
-- **ALX ProDev Scholar:** Advanced training in modern front-end and back-end stacks, shipping real-world projects with expert mentorship.
-- **Team Lead:** Purpool chat application—managed agile workflow, code quality, and timely delivery.
-- **Data Experience:** Delivered analytical dashboards and process automation using SQL and Power BI.
-
----
-
-## Technical Toolbox
+## Technical Expertise
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-61dafb?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-f2c811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052cc?style=flat-square&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0079bf?style=flat-square&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-c21325?style=flat-square&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-0A0FFF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design%20Systems-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-## GitHub Insights & Stats
+## Focus Areas
+
+- **AI for Impact:** Applying machine learning and data-driven insights in agritech and healthtech.  
+- **Full-Stack Engineering:** Crafting robust APIs, responsive UIs, and cloud-integrated systems.  
+- **Digital Art & Design:** Exploring motion, precision, and balance through creative design systems.  
+- **Venture Building:** Bridging technology, sustainability, and entrepreneurship to drive scalable innovation.  
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech Stack |
+|:--------|:-------------|:-----------|
+| **DataHaul Agritech** | AI-powered farming and market access platform improving smallholder yield and income. | Django, React, AWS, PostgreSQL |
+| **iTeleHealth** | Healthtech solution enabling access to care via SMS/USSD and mobile app integration. | Django REST, React Native, Twilio |
+| **RQuasar Design Series** | Automotive design exploration blending 3D form and digital realism. | Blender, Adobe Suite, Figma |
+| **ALX Projects** | Full-stack, data, and DevOps projects completed under ALX SE ProDev program. | Django, SQL, Docker, CI/CD |
+
+---
+
+## GitHub Analytics
 
 <table align="center">
 <tr>
@@ -123,28 +120,27 @@ I am a results-driven developer with a foundation in front-end technologies and 
 
 ---
 
-## Core Competencies
+## Core Strengths
 
-- **Front-End Architecture:** Modern frameworks, accessibility, and performance optimization
-- **User-Centric Design:** Intuitive interfaces, design systems, and consistent branding
-- **Full-Stack Integration:** REST APIs, authentication, CI/CD pipelines, scalable databases
-- **Data & Analytics:** Insightful dashboards, data modeling, and process automation
-- **Agile Leadership:** Team facilitation, code reviews, and continuous improvement
+- **Systems Thinking:** Translating complexity into structured, efficient architectures.  
+- **Design Philosophy:** Crafting visual and functional harmony across art and code.  
+- **Analytical Mindset:** Turning data into insight and innovation.  
+- **Collaborative Energy:** Agile team player with leadership experience and delivery focus.  
 
 ---
 
-## Let's Collaborate
+## Connect
 
-I am open to freelance, full-time, and partnership opportunities.  
-If you value modern engineering, creative design, and data-driven results, let's connect:
+I’m open to collaborations, creative partnerships, and technology-driven ventures.  
+If your mission aligns with **innovation, design, and impact**, let’s connect:
 
-- <a href="https://bit.ly/reuben-idan">Portfolio</a>
-- <a href="https://www.linkedin.com/in/reuben-idan/">LinkedIn</a>
-- <a href="https://github.com/reuben-idan">GitHub</a>
-- <a href="mailto:idanreuben@gmail.com">Email</a>
+- [Portfolio](https://bit.ly/reuben-idan)  
+- [LinkedIn](https://www.linkedin.com/in/reuben-idan/)  
+- [GitHub](https://github.com/reuben-idan)  
+- [Email](mailto:idanreuben@gmail.com)
 
 ---
 
 <p align="center">
-  <i>Let's transform ideas into impactful digital products.</i>
+  <i>Building technology and art that inspire, empower, and endure.</i>
 </p>
