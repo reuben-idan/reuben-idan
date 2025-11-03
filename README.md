@@ -47,7 +47,7 @@ Currently part of the **Open Startup (OST) 2025–2026 Cohort** as a **Tech Tale
 At **ALX**, I’m deepening expertise in **backend engineering (Python, Django, SQL)** and **frontend development (React, TypeScript)**, while exploring **AI and data science** through **Stanford’s Precision Bioinformatics Program**.  
 I’m also **cofounder of DataHaul Agritech**, a smart farming and market access platform that empowers small-scale farmers with data insights and digital tools for improved yield and income.  
 
-I believe that **engineering and art share the same DNA** — structure, motion, and imagination. Whether I’m coding or creating the **RQuasar car design series**, I strive to make technology both **functional and inspiring**.
+I believe that **engineering and art share the same DNA**, ie, structure, motion, and imagination. Whether I’m coding or creating the **RQuasar car design series**, I strive to make technology both **functional and inspiring**.
 
 ---
 
