@@ -79,14 +79,7 @@ I believe that **engineering and art share the same DNA** — structure, motion,
 
 ---
 
-## Featured Projects
 
-| Project | Description | Tech Stack |
-|:--------|:-------------|:-----------|
-| **DataHaul Agritech** | AI-powered farming and market access platform improving smallholder yield and income. | Django, React, AWS, PostgreSQL |
-| **iTeleHealth** | Healthtech solution enabling access to care via SMS/USSD and mobile app integration. | Django REST, React Native, Twilio |
-| **RQuasar Design Series** | Automotive design exploration blending 3D form and digital realism. | Blender, Adobe Suite, Figma |
-| **ALX Projects** | Full-stack, data, and DevOps projects completed under ALX SE ProDev program. | Django, SQL, Docker, CI/CD |
 
 ---
 
