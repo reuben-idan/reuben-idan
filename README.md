@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">Reuben Idan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1300&color=36BCF7&center=true&vCenter=true&width=850&lines=Digital+Artist+%26+Software+Engineer;Building+Scalable+AI-Powered+Solutions;Design+%7C+Data+%7C+Impact" alt="Dynamic Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1300&color=36BCF7&center=true&vCenter=true&width=850&lines=Lead+Software+Engineer;Data+Engineer+%26+Innovator;Building+Scalable+Enterprise+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,8 +11,11 @@
   <a href="https://www.linkedin.com/in/reuben-idan/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://bit.ly/reuben-idan">
+  <a href="https://reuben-idan.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-darkorange?style=flat-square" alt="Portfolio" />
+  </a>
+  <a href="https://datahaulinc.com/">
+    <img src="https://img.shields.io/badge/DataHaul-Explore-success?style=flat-square" alt="DataHaul" />
   </a>
   <a href="mailto:idanreuben@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail" alt="Email" />
@@ -23,31 +26,36 @@
 
 <!-- INTRODUCTION -->
 <p align="center">
-  I’m a <strong>Digital Artist and Software Engineer</strong> exploring the intersection of <strong>design, data, and technology</strong>.<br>
-  My work spans <strong>AI-powered platforms, full-stack development, and digital art</strong>, blending precision with creativity to build experiences that inspire and endure.<br>
-  Trained through <strong>ALX</strong> and <strong>Stanford’s Precision Program</strong>, I bring a multidisciplinary approach to problem-solving and innovation.
+  I'm a <strong>Lead Software Engineer</strong> and <strong>Data Engineer</strong> passionate about building <strong>scalable, enterprise-grade solutions</strong> that drive meaningful impact.<br>
+  Currently leading engineering at <strong><a href="https://datahaulinc.com/">DataHaul</a></strong>, I architect and optimize systems that transform data into competitive advantage.<br>
+  With expertise in <strong>full-stack development, data engineering, and systems design</strong>, I combine technical excellence with strategic innovation.
 </p>
 
 <!-- QUICK FACTS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Software%20Engineer-36bcf7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Creative-Digital%20Artist-1da1f2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cohort-OST%202025--2026%20Tech%20Talent-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Agritech%20%7C%20Healthtech-0a0fff?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Global%20%2F%20Remote-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Lead%20Software%20Engineer-36bcf7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Specialization-Data%20Engineering-1da1f2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Company-DataHaul-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Training-ALX%20%7C%20ExploreAI%20%7C%20OST-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Global%20%2F%20Remote-0a0fff?style=flat-square" />
 </p>
 
 ---
 
 ## About Me
 
-As a data-driven full-stack engineer and creative innovator, I design and build scalable digital solutions that create measurable impact across Africa.  
-Currently part of the **Open Startup (OST) 2025–2026 Cohort** as a **Tech Talent**, I collaborate with founders and mentors from **MIT** and **Columbia Business School** to co-build high-impact ventures in **innovation, sustainability, and technology**.  
+I'm a **Lead Software Engineer** at **[DataHaul](https://datahaulinc.com/)**, where I architect and scale backend systems, optimize data pipelines, and lead engineering initiatives that serve enterprise clients globally.
 
-At **ALX**, I’m deepening expertise in **backend engineering (Python, Django, SQL)** and **frontend development (React, TypeScript)**, while exploring **AI and data science** through **Stanford’s Precision Bioinformatics Program**.  
-I’m also **cofounder of DataHaul Agritech**, a smart farming and market access platform that empowers small-scale farmers with data insights and digital tools for improved yield and income.  
+With a strong foundation in **data engineering** from **ExploreAI Academy**, I design systems that transform raw data into actionable intelligence. My expertise spans **full-stack development, cloud infrastructure, API design, and enterprise-grade data solutions**.
 
-I believe that **engineering and art share the same DNA**, ie, structure, motion, and imagination. Whether I’m coding or creating the **RQuasar car design series**, I strive to make technology both **functional and inspiring**.
+**Education & Development:**
+- **ALX Software Engineering Program** – Advanced backend and full-stack development
+- **ExploreAI Data Engineering** – Data architecture, ETL pipelines, and analytics
+- **Open Startup Talent (OST)** – Venture building and entrepreneurial strategy
+
+I believe in **building technology with purpose**—whether it's engineering robust systems, designing elegant data architectures, or mentoring the next generation of engineers. My approach combines **precision, innovation, and a commitment to excellence**.
+
+Visit my [portfolio](https://reuben-idan.vercel.app/) to explore my work and projects.
 
 ---
 
@@ -56,30 +64,32 @@ I believe that **engineering and art share the same DNA**, ie, structure, motion
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Pipelines-ETL-ff6b6b?style=flat-square" />
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-## Focus Areas
+## Core Competencies
 
-- **AI for Impact:** Applying machine learning and data-driven insights in agritech and healthtech.  
-- **Full-Stack Engineering:** Crafting robust APIs, responsive UIs, and cloud-integrated systems.  
-- **Digital Art & Design:** Exploring motion, precision, and balance through creative design systems.  
-- **Venture Building:** Bridging technology, sustainability, and entrepreneurship to drive scalable innovation.  
-
----
-
-
+- **Data Engineering:** Pipeline design, ETL/ELT architecture, data modeling, and optimization
+- **Backend Development:** High-performance APIs, microservices, and scalable system design
+- **Full-Stack Engineering:** End-to-end solutions with robust backends and responsive frontends
+- **Cloud Infrastructure:** AWS, GCP, containerization, and DevOps practices
+- **System Architecture:** Database optimization, caching strategies, and distributed systems
+- **Technical Leadership:** Team mentorship, code quality, and engineering best practices
 
 ---
 
@@ -115,25 +125,26 @@ I believe that **engineering and art share the same DNA**, ie, structure, motion
 
 ## Core Strengths
 
-- **Systems Thinking:** Translating complexity into structured, efficient architectures.  
-- **Design Philosophy:** Crafting visual and functional harmony across art and code.  
-- **Analytical Mindset:** Turning data into insight and innovation.  
-- **Collaborative Energy:** Agile team player with leadership experience and delivery focus.  
+- **Technical Excellence:** Writing clean, maintainable, and scalable code
+- **Systems Thinking:** Designing architectures that solve complex problems efficiently
+- **Analytical Mindset:** Data-driven decision making and continuous optimization
+- **Leadership:** Guiding teams, mentoring engineers, and fostering innovation
+- **Innovation:** Staying ahead of industry trends and adopting best practices
 
 ---
 
-## Connect
+## Let's Connect
 
-I’m open to collaborations, creative partnerships, and technology-driven ventures.  
-If your mission aligns with **innovation, design, and impact**, let’s connect:
+I'm open to collaborations, technical discussions, and partnerships that drive innovation and impact.
 
-- [Portfolio](https://bit.ly/reuben-idan)  
-- [LinkedIn](https://www.linkedin.com/in/reuben-idan/)  
-- [GitHub](https://github.com/reuben-idan)  
+- [Portfolio Website](https://reuben-idan.vercel.app/)
+- [DataHaul](https://datahaulinc.com/)
+- [LinkedIn](https://www.linkedin.com/in/reuben-idan/)
+- [GitHub](https://github.com/reuben-idan)
 - [Email](mailto:idanreuben@gmail.com)
 
 ---
 
 <p align="center">
-  <i>Building technology and art that inspire, empower, and endure.</i>
+  <i>Engineering excellence. Data-driven decisions. Measurable impact.</i>
 </p>
