@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">Reuben Idan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=36BCF7&center=true&vCenter=true&width=500&lines=Lead+Software+Engineer;Data+Engineering;Systems+Architecture" alt="Professional Introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=36BCF7&center=true&vCenter=true&width=500&lines=Lead+Software+Engineer;Data+Engineering;Systems+Architecture" alt="Professional roles"/>
 </p>
 
 <p align="center">
@@ -15,35 +15,47 @@
 
 ## Overview
 
-I'm a Lead Software Engineer at [DataHaul](https://datahaulinc.com/) focused on backend systems, data architecture, and scalable infrastructure. I build solutions that translate complex requirements into reliable, maintainable systems. My work spans full-stack development, data pipelines, and cloud infrastructure—with particular emphasis on performance, reliability, and architectural clarity.
+I'm a Lead Software Engineer at [DataHaul](https://datahaulinc.com/) focused on backend systems, data architecture, and scalable infrastructure. I build solutions that translate complex requirements into elegant, performant systems.
 
 ---
 
-## Technical Foundation
+## Technology Stack
 
-**Languages & Frameworks:**
-- Backend: Python (Django, FastAPI), TypeScript
-- Frontend: React, TypeScript, JavaScript
-- Data: Apache Spark, SQL, ETL pipelines
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3.9+-3776ab?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178c6?style=flat&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/Django-4.0+-092e20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-18.0+-61dafb?style=flat&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES12+-f7df1e?style=flat&logo=javascript&logoColor=black)
 
-**Infrastructure & Platforms:**
-- Databases: PostgreSQL, data warehousing
-- Cloud: AWS, GCP
-- Containerization: Docker, Kubernetes
-- DevOps: CI/CD, monitoring, infrastructure automation
+### Data & Big Data
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-3.0+-e25041?style=flat&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-336791?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-cc2927?style=flat&logo=database&logoColor=white)
 
-**Core Focus Areas:**
-- Data pipeline architecture and optimization
-- High-performance API design
-- Database modeling and query optimization
-- Microservices and distributed systems
-- Technical system design
+### Infrastructure & DevOps
+![AWS](https://img.shields.io/badge/AWS-Cloud-ff9900?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Cloud-4285f4?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ed?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326ce5?style=flat&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088f0?style=flat&logo=githubactions&logoColor=white)
 
 ---
 
-## Background
+## Professional Expertise
 
-I've worked through [ALX Software Engineering Program](https://www.alxafrica.com/) for advanced backend and full-stack development, completed [ExploreAI's Data Engineering curriculum](https://www.explore-ai.com/), and engaged with [Open Startup Talent](https://www.openstt.com/) for systems thinking and technical leadership.
+**System Architecture**  
+Designing scalable backends and data systems that handle complexity without becoming brittle. Focus on separation of concerns, fault tolerance, and operational visibility.
+
+**Data Engineering**  
+Building robust ETL pipelines and data models that enable analytics and decision-making. Experience with batch processing, streaming architecture, and warehouse optimization.
+
+**Technical Leadership**  
+Code review, architecture decisions, and mentoring engineers on technical depth and best practices. Translating business requirements into technical roadmaps.
+
+**Performance Engineering**  
+Database optimization, caching strategies, and infrastructure efficiency. Profiling, benchmarking, and systematic bottleneck elimination.
 
 ---
 
@@ -72,20 +84,32 @@ I've worked through [ALX Software Engineering Program](https://www.alxafrica.com
 
 ---
 
-## What I Work On
+## Education & Certifications
 
-- **System Architecture**: Designing scalable backends and data systems that handle complexity without becoming brittle
-- **Data Engineering**: Building robust ETL pipelines and data models that enable analytics and decision-making
-- **Technical Leadership**: Code review, architecture decisions, and mentoring engineers on technical depth and best practices
-- **Performance Engineering**: Database optimization, caching strategies, and infrastructure efficiency
+- **ALX Software Engineering Program** — Advanced backend and full-stack development
+- **ExploreAI Data Engineering Curriculum** — Data pipeline architecture and best practices
+- Focus on systems thinking, distributed systems, and production-grade software development
 
 ---
 
-## Get in Touch
+## Connect
 
-I'm interested in discussions about systems design, data architecture, and technical challenges.
+Interested in discussions about systems design, data architecture, technical challenges, and engineering leadership.
 
-**Links:** [LinkedIn](https://www.linkedin.com/in/reuben-idan/) · [Portfolio](https://reuben-idan.vercel.app/) · [DataHaul](https://datahaulinc.com/) · [Email](mailto:idanreuben@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/reuben-idan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://reuben-idan.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View-36bcf7?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://datahaulinc.com/">
+    <img src="https://img.shields.io/badge/DataHaul-Company-000000?style=flat&logo=company&logoColor=white" alt="DataHaul"/>
+  </a>
+  <a href="mailto:idanreuben@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-d14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
