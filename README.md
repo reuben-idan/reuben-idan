@@ -6,7 +6,7 @@
 
 Building practical software at the intersection of engineering, data, and real-world needs.
 
-[Portfolio](https://reuben-idan.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/reuben-idan/) · [DataHaul Agritech](https://datahaulinc.com/) · [Email](mailto:idanreuben@gmail.com)
+[Portfolio](https://reuben-idan.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/reuben-idan/) · [DataHaul](https://datahaulinc.com/) · [Email](mailto:idanreuben@gmail.com)
 
 </div>
 
@@ -20,10 +20,11 @@ I'm building **[DataHaul Agritech](https://datahaulinc.com/)**, an initiative ex
 
 ## Selected work
 
+- **DataHaul web platform** — A smart farming and market-access platform for farmers, including digital commerce, market information, and community tools. [Website](https://datahaulinc.com/) · [Dashboard](https://dashboard.datahaulinc.com/)
+- **DataHaul mobile app** — The Android app for accessing DataHaul on mobile. [Google Play](https://play.google.com/store/apps/details?id=com.datahaulinc.datahaul)
 - **[ProfitIdan Guard](https://github.com/reuben-idan/ProfitIdan-Guard)** — An AI-assisted finance tool for African distributors to investigate profit leaks, verify financial evidence, forecast cash-flow risk, and prepare next steps with human approval.
 - **[SmartFarm API](https://github.com/reuben-idan/SmartFarm-API)** — A Django REST Framework backend built as the core of a digital agriculture platform.
-- **[Portfolio](https://reuben-idan.vercel.app/)** — My Next.js and TypeScript portfolio, with a responsive project showcase, motion-led interface, and contact experience.
-- **[C programming practice](https://github.com/reuben-idan/set-low_level_programming)** — Hands-on C exercises covering fundamentals such as variables, control flow, loops, compilation, and basic data types.
+- **[Portfolio](https://reuben-idan.vercel.app/)** — My Next.js and TypeScript portfolio, featuring a responsive project showcase and contact experience.
 
 ## Tools I use
 
@@ -36,10 +37,11 @@ Django · Django REST Framework · FastAPI · React · Next.js · React Native
 **Data & infrastructure**  
 PostgreSQL · AWS · Docker · Git · GitHub Actions
 
-I have practical experience building with these tools and continue to deepen my skills through projects. In C, I’m developing a solid foundation in programming fundamentals and low-level concepts.
+I have practical experience building with these tools and continue to deepen my skills through projects. In C, I’m developing a solid foundation in programming fundamentals and low-level concepts. [C programming practice](https://github.com/reuben-idan/set-low_level_programming)
 
 ## Background
 
+- **Frontier Institute of Technology** — BSc, Software Engineering
 - **University of Ghana** — BA, Insurance and Economics
 - **Generation Ghana** — Web Development Programme; Valedictorian
 - **ALX** — Backend and Frontend Software Engineering
@@ -49,6 +51,15 @@ I have practical experience building with these tools and continue to deepen my 
 ## What’s next
 
 I’m focused on becoming a stronger engineer by building, testing, and improving real products—especially in backend systems, data, cloud, and technology for agriculture. I’m open to thoughtful collaboration and opportunities to learn alongside people working on meaningful problems.
+
+## GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=reuben-idan&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub profile statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reuben-idan&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages on GitHub" />
+
+</div>
 
 <div align="center">
 
