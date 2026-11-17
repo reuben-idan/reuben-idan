@@ -1,16 +1,10 @@
-# Reuben Idan
-### Software Engineer · Data Engineer · Founder
+# \<p align="center">Reuben Idan\</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+software+that+solves+real+problems;Exploring+the+intersection+of+software+and+data;Learning%2C+building%2C+and+getting+better;Working+on+technology+for+African+agriculture" alt="Introduction" />
-</p>
+\<p align="center">   \<strong>Software Engineer · Data Engineer · Founder\</strong> \</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/reuben-idan/">LinkedIn</a> ·
-  <a href="https://reuben-idan.vercel.app/">Portfolio</a> ·
-  <a href="https://datahaulinc.com/">DataHaul Agritech</a> ·
-  <a href="mailto:idanreuben@gmail.com">Email</a>
-</p>
+\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+software+that+solves+real+problems;Exploring+the+intersection+of+software+and+data;Learning%2C+building%2C+and+getting+better;Working+on+technology+for+African+agriculture](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=18\&duration=3500\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=650\&lines=Building+software+that+solves+real+problems;Exploring+the+intersection+of+software+and+data;Learning%2C+building%2C+and+getting+better;Working+on+technology+for+African+agriculture)" alt="Introduction" /> \</p>
+
+\<p align="center">   \<a href="[https://www.linkedin.com/in/reuben-idan/](https://www.linkedin.com/in/reuben-idan/)">LinkedIn\</a> ·   \<a href="[https://reuben-idan.vercel.app/](https://reuben-idan.vercel.app/)">Portfolio\</a> ·   \<a href="[https://datahaulinc.com/](https://datahaulinc.com/)">DataHaul Agritech\</a> ·   \<a href="mailto\:idanreuben\@gmail.com">Email\</a> \</p>
 
 ---
 
@@ -20,7 +14,7 @@ I'm a software engineering student, developer and entrepreneur in Ghana, interes
 
 My interests sit at the intersection of software engineering, data and cloud infrastructure. I enjoy understanding how things work, thinking through systems, and turning ideas and requirements into useful software.
 
-I'm currently building **[DataHaul Agritech](https://datahaulinc.com/)**, an initiative exploring how technology can improve agricultural commerce, market access and intelligence across Africa.
+I'm currently building [**DataHaul Agritech**](https://datahaulinc.com/), an initiative exploring how technology can improve agricultural commerce, market access and intelligence across Africa.
 
 Beyond writing code, I'm interested in the problems behind the technology: how people use it, the systems that support it, and whether what we build actually makes a difference.
 
@@ -46,13 +40,13 @@ Areas of exploration include:
 
 ## Areas of Interest
 
-| Area | What interests me |
-|---|---|
-| Software Engineering | Backend development, APIs, application architecture and maintainable systems |
-| Data Engineering | Data pipelines, processing, modelling and analytics |
-| Cloud Computing | Cloud infrastructure, deployment and scalable applications |
-| Artificial Intelligence | Practical AI applications, intelligent systems and decision support |
-| Product Development | Turning real-world problems into useful, accessible software |
+| Area                    | What interests me                                                            |
+| ----------------------- | ---------------------------------------------------------------------------- |
+| Software Engineering    | Backend development, APIs, application architecture and maintainable systems |
+| Data Engineering        | Data pipelines, processing, modelling and analytics                          |
+| Cloud Computing         | Cloud infrastructure, deployment and scalable applications                   |
+| Artificial Intelligence | Practical AI applications, intelligent systems and decision support          |
+| Product Development     | Turning real-world problems into useful, accessible software                 |
 
 ## Technology
 
@@ -60,26 +54,26 @@ The tools I work with and continue to develop my skills in:
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+
+\
+
 
 **Frameworks and Development**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+
+
+\
+
 
 **Data and Cloud**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+
+
+\
+
 
 ## How I Think About Building
 
@@ -104,11 +98,12 @@ I value simplicity, curiosity, continuous learning and the discipline to improve
 
 ## Education and Professional Development
 
-My learning journey spans software engineering, data and business:
+My academic and professional development spans software engineering, data and business.
 
-- **University of Ghana** — BA Insurance and Economics.
+- **BSc Software Engineering** — [Frontier Institute of Technology](https://fit.edu.gh/) *(In Progress)*
+- **BA Insurance and Economics** — University of Ghana.
 - **Generation Ghana** — Web Development Programme; Valedictorian.
-- **ALX** — Backend and Frontend Software Engineering.
+- **ALX** — Backend and Frontend Software Engineering Programmes.
 - **ExploreAI** — Data Science and Engineering.
 - **Amazon Web Services** — AWS Certified Cloud Practitioner.
 
@@ -116,35 +111,39 @@ I continue to invest in learning through technical programmes, independent proje
 
 ## GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reuben-idan&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reuben-idan&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Most used programming languages" />
-</p>
+\<p align="center">
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=reuben-idan&show_icons=true&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api?username=reuben-idan\&show_icons=true\&theme=github_dark\&hide_border=true)" height="165" alt="GitHub statistics" />
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=reuben-idan&layout=compact&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=reuben-idan\&layout=compact\&theme=github_dark\&hide_border=true)" height="165" alt="Most used programming languages" />
+\</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reuben-idan&theme=github-dark&hide_border=true" width="70%" alt="GitHub contribution streak" />
-</p>
+\<p align="center">
+&#x20; \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=reuben-idan&theme=github-dark&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=reuben-idan\&theme=github-dark\&hide_border=true)" width="70%" alt="GitHub contribution streak" />
+\</p>
 
 ---
 
 ## Let's Connect
 
-I'm always open to meaningful conversations, collaboration and opportunities to learn and build.
+\<p align="center">
+&#x20; I'm always open to meaningful conversations, collaboration and opportunities to learn and build.
+\</p>
 
-Whether it's software engineering, data, cloud technology, agritech or an interesting problem worth solving, I'd be glad to connect.
+\<p align="center">
+&#x20; Whether it's software engineering, data, cloud technology, agritech or an interesting problem worth solving, I'd be glad to connect.
+\</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/reuben-idan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://reuben-idan.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:idanreuben@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+\<p align="center">
+&#x20; \<a href="[https://www.linkedin.com/in/reuben-idan/](https://www.linkedin.com/in/reuben-idan/)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>
+&#x20; \</a>
+&#x20; \<a href="[https://reuben-idan.vercel.app/](https://reuben-idan.vercel.app/)">
+&#x20;   \<img src="[https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge\&logo=vercel\&logoColor=white)" alt="Portfolio"/>
+&#x20; \</a>
+&#x20; \<a href="mailto\:idanreuben\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email"/>
+&#x20; \</a>
+\</p>
 
-<p align="center">
-  <i>Always learning. Always building. Always asking what can be done better.</i>
-</p>
+\<p align="center">
+&#x20; \<i>Always learning. Always building. Always asking what can be done better.\</i>
+\</p>
